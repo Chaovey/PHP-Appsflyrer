@@ -1,0 +1,15 @@
+{
+    "name": "appsflyer/appsflyer-php-sdk",
+    "description": "appsflyer",
+    "autoload": {
+        "psr-4": {
+            "Appsflyer\\AppsflyerPhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {}
+}
